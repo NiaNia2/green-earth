@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5rem;
+
+    a {
+        background: linear-gradient(to right, #1a5739, #4f7d33, #739929);
+        color: white;
+    }
+
+    img {
+        width: 5%;
+    }
+}

@@ -1,3 +1,17 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 5rem;
+}
+header a {
+  background: linear-gradient(to right, #1a5739, #4f7d33, #739929);
+  color: white;
+}
+header img {
+  width: 5%;
+}
+
 @font-face {
   font-family: "DM-italic";
   src: url(../fonts/DM_Sans/DMSans-Italic-VariableFont_opsz\,wght.ttf);
@@ -8,6 +22,7 @@
 }
 body {
   font-family: "DM-italic";
+  background-color: #faf2e7;
 }
 
 a {
