@@ -1,0 +1,11 @@
+@use "../abstracts/variables" as variables;
+
+body {
+    font-family: variables.$font-italic;
+}
+
+a {
+    text-decoration: none;
+    border-radius: 0.9rem;
+    padding: 1rem;
+}

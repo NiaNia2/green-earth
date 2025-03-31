@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "DM-italic";
+  src: url(../fonts/DM_Sans/DMSans-Italic-VariableFont_opsz\,wght.ttf);
+}
+@font-face {
+  font-family: "DM-variableFont";
+  src: url(../fonts/DM_Sans/DMSans-VariableFont_opsz\,wght.ttf);
+}
+body {
+  font-family: "DM-italic";
+}
+
+a {
+  text-decoration: none;
+  border-radius: 0.9rem;
+  padding: 1rem;
+}
+
+/*# sourceMappingURL=style.css.map */
