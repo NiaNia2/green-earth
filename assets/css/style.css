@@ -131,5 +131,11 @@ h2 {
   width: 40%;
   border-radius: 0.9rem;
 }
+#impact .card-impact {
+  width: 100%;
+}
+#impact .card-impact .card {
+  background-color: white;
+}
 
 /*# sourceMappingURL=style.css.map */
